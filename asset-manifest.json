@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-old-expense-tracker/static/css/main.4169f80c.css",
+    "main.js": "/react-old-expense-tracker/static/js/main.a92eda32.js",
+    "index.html": "/react-old-expense-tracker/index.html",
+    "main.4169f80c.css.map": "/react-old-expense-tracker/static/css/main.4169f80c.css.map",
+    "main.a92eda32.js.map": "/react-old-expense-tracker/static/js/main.a92eda32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4169f80c.css",
+    "static/js/main.a92eda32.js"
+  ]
+}
